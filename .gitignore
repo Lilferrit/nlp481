@@ -177,4 +177,4 @@ tokenized-datasets/*
 !tokenized-datasets/
 
 cache/*
-!cache
+!cache/
